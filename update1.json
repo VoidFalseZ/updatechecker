@@ -1,0 +1,6 @@
+{
+  "latest_version": "1.2.0",
+  "download_url": "https://yourserver.com/app.apk",
+  "force_update": false,
+  "update_message": "A new version is available with bug fixes and improvements."
+}
